@@ -15,3 +15,12 @@ if media >= 7:
   print(f"Parabéns, {nome}! Sua média é {media:.2f}. Você está aprovado!")
 else:
   print(f"{nome}, sua média é {media:.2f}. Você ainda tem uma chance! Estude mais para o exame.")
+
+  nota_exame = float(input("Digite a nota do exame: "))
+
+  media_final = (media + nota_exame) / 2
+
+  if media_final >= 5:
+    print(f"Parabéns, {nome}! Você aproveitou a sua chance! Está aprovado.")
+  else:
+    print(f"Estude mais para a próxima, {nome}. Você não alcançou o mínimo necessário.")
