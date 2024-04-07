@@ -9,7 +9,7 @@ A lista de exercícios aborda diversos conceitos de programação em Python, inc
 - [@ramon.god](https://github.com/Ramonlegend)
 
 
-## Funcionalidades
+## Descrição dos exercicíos
 
 - Q1)
 
