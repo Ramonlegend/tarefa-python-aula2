@@ -12,7 +12,6 @@ A lista de exercícios aborda diversos conceitos de programação em Python, inc
 ## Descrição dos exercicíos
 
 - Q1)
-
 Neste programa, o usuário insere um valor via teclado e o programa executa as operações conforme as condições estabelecidas:
 
 Se o valor for 1, 2 ou 3, o programa mostra o valor elevado ao quadrado.
